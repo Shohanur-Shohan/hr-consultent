@@ -1,0 +1,559 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+.h-c1{
+    width: 60%;
+}
+.h-c{
+    width: 100%;
+}
+.h-c1 {
+    padding: 10px 0px;
+}
+.menu ul{
+	width: max-content;
+}
+.menu ul li a {
+
+    font-size: 14px !important;
+
+}
+/*banner start*/
+.b-c {
+    padding: 40px 0;
+}
+.b-c h1 {
+    font-weight: 500;
+    font-size: 17px;
+
+}
+.b-c p {
+    margin: 12px 0px;
+    font-size: 14px;
+}
+.b1-c {
+    margin: 0px;
+}
+.btn-1 {
+    padding: 3px 10px;
+    font-size: 14px;
+    font-weight: 500;
+    width: 45%;
+}
+/*banner end*/
+/*service start*/
+.s-c1, .s-c2, .s-c3 {
+    padding: 30px 0;
+
+}
+.s-c {
+    width: 25%;
+    padding: 18px;
+}
+.s-c1 h1, .s-c2 h1, .s-c3 h1 {
+    font-size: 25px;
+}
+.s-c1 p, .s-c2 p, .s-c3 p {
+    font-size: 16px;
+}
+/*service end*/
+/*service 2*/
+.s2-c1 {
+    padding: 50px 0;
+}
+.s2-c1 p {
+    padding: 0 10px;
+}
+/*service 2  end*/
+/*service 3 start*/
+.s3-c {
+    padding: 0 10%;
+}
+.s3-c2{
+	text-align: center;
+    margin-top: 15px;
+}
+.s3-c2 p{
+		font-size: 14px;
+}
+/*service 3 end*/
+/*service 4 start*/
+.s4-c2 {
+    margin: 30px 0px 0px;
+    text-align: center;
+    border: 0.5px solid #6363635c;
+}
+/*service 4 end*/
+/*slider start*/
+.b-c-1 {
+    margin-top: 20px;
+    padding: 0px;
+}
+.s2-c1 {
+    padding: 30px 0;
+}
+.s2-c1 p {
+    margin-top: 20px;
+
+}
+/*slider end*/
+/*service 22 start*/
+.s22-c1 p {
+	margin-top: 20px;
+    padding: 0px 2%;
+}
+.yt-1 {
+    width: 100%;
+}
+/*service 22 end*/
+/*service 22 start again*/
+.s-22-1 {
+    display: inline-block;
+}
+.s-22-2 {
+    margin: 0px;
+     width: 100%; 
+}
+/*service 22 e again*/
+/*footer start*/
+.f-c {
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 0px;
+   
+}
+.f-r2 h4 {
+    font-size: 12px;
+    padding: 10px;
+}
+/*footer end*/
+    
+}
+
+
+
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.h-c{
+	width: 70%;
+    padding: 5px 0px;
+}
+.menu ul{
+	width: max-content;
+}
+.b-c {
+    padding: 35px 0;
+}
+.b-c h1 {
+    font-weight: 500;
+    font-size: 25px;
+}
+.b-c p {
+    margin: 18px 0px;
+    font-size: 16px;
+}
+.btn-1 {
+    padding: 5px 16px;
+
+}
+/*service start*/
+.s-c1, .s-c2, .s-c3 {
+    padding: 30px 0;
+
+}
+.s-c {
+    width: 17%;
+    padding: 18px;
+}
+.s-c1 h1, .s-c2 h1, .s-c3 h1 {
+    font-size: 30px;
+}
+.s-c1 p, .s-c2 p, .s-c3 p {
+    font-size: 16px;
+}
+/*service end*/
+/*service 2 start*/
+.s2-c1 {
+    padding: 50px 0;
+}
+.s2-c2 {
+    width: 55%;
+}
+.s2-c1 p {
+    margin-top: 23px;
+    padding: 0 2%;
+    font-size: 14px;
+}
+/*service 2 end*/
+/*service3 start*/
+.s3-c {
+    padding: 0 25% 30px;
+}
+.s3-c2 p{
+	text-align: center;
+}
+/*service3 end*/
+/*service 4 start*/
+.s4-c2 {
+    text-align: center;
+    margin: 35px 0px 0;
+}
+/*service 4 end*/
+/*slider start*/
+.banner {
+    margin: 40px 0;
+}
+.p-0{
+	padding: 0px;
+}
+.c-ind{
+    margin-bottom: 0;
+}
+.c-caption {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.c-caption h3 {
+    font-size: 15px;
+}
+.c-caption span {
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.c-caption p {
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.s-icon {
+    height: 40px;
+    width: 40px;
+}
+/*slider end*/
+/*service 2start a*/
+.s2-c1 {
+    padding: 40px 0;
+}
+.s2-c1 p {
+    padding: 0px 1%;
+}
+.yt-1 {
+    width: 70%;
+}
+/*service 2start e*/
+/*service 22start s*/
+.s22-c1 {
+    padding-bottom: 55px;
+}
+.s22-c1 p {
+    margin-top: 20px;
+    padding: 0 5%;
+    font-size: 14px;
+
+}
+.s-22-1 {
+    display: inline-block;
+}
+.s-22-2 {
+    width: 100%;
+}
+/*service 22start e*/
+/*footer*/
+.f-c {
+    padding-left: 0px;
+}
+.f-r2 h4 {
+    font-size: 12px;
+    padding: 13px;
+}
+/*footer*/
+
+
+}
+
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.menu ul{
+	width: max-content;
+}
+/*banner start*/
+.b-c {
+    padding: 50px 0;
+}
+.b1-c {
+    padding: 30px 0;
+    background-size: contain;
+    background-position: right;
+}
+.b-c h1 {
+	font-weight: 500;
+    font-size: 26px;
+}
+.b-c p {
+    margin: 28px 0px;
+    font-size: 16px;
+}
+.btn-1 {
+    padding: 5px 15px;
+}
+/*banner end*/
+/*service start*/
+.s-c1, .s-c2, .s-c3 {
+    padding: 55px 0;
+}
+.s-c {
+    padding: 13px;
+    width: 35%;
+}
+.s-c1 h1, .s-c2 h1, .s-c3 h1 {
+    font-size: 26px;
+}
+.s-c1 p, .s-c2 p, .s-c3 p {
+    margin: 20px 14px;
+    font-size: 15px;
+    color: #ffffff;
+}
+/*service end*/
+/*service 2 start*/
+.s2-c1 {
+    padding: 60px 0;
+}
+.s2-c1 p {
+    margin-top: 30px;
+    padding: 0 0%;
+
+}
+/*service 2 end*/
+/*service 3 start*/
+.s3-c {
+    padding: 0 25% 30px;
+}
+.s3-c2 p{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0px; 
+    font-size: 15px;
+}
+/*service 3 end*/
+/*service 4 start*/
+.s4-c2 {
+    margin: 40px 30px 0;
+}
+.s4-c3 h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+/*service 4 end*/
+/*slider start*/
+.banner {
+    margin: 60px 0px 25px;
+}
+.c-caption {
+    padding: 0px;
+}
+.c-caption h3 {
+    font-size: 17px;
+}
+.c-caption span {
+    font-size: 22px;
+    font-weight: 500;
+}
+.c-caption p {
+    margin-top: 14px;
+    font-size: 14px;
+}
+/*slider end*/
+/*service2 start again*/
+.s2-c1 {
+    padding: 50px 0;
+}
+.yt-1 {
+    width: 70%;
+}
+/*service2 end again*/
+/*service22 start again*/
+.s22-c1 {
+    padding-bottom: 50px;
+}
+.s22-c1 p {
+    padding: 0px 0%;
+}
+.s-22-3{
+	padding: 0px;
+}
+.s-22-3 h3{
+	font-size: 19px;
+    margin: 10px 0px;
+}
+/*service22 end again*/
+/*footer start*/
+.f-c {
+    padding-left: 0px;
+    text-align: center;
+}
+.f-1 {
+    width: 100%;
+}
+.f-c-1 address {
+    font-size: 14px;
+    margin-bottom: 0px;
+    line-height: 19px;
+}
+.f-c-1{
+    padding: 0px 10px;
+}
+.f-2 h4{
+	font-size: 22px;
+    padding: 0px 3px;
+}
+.f-2 ul li{
+	font-size: 16px;
+
+}
+/*footer end*/
+
+	
+
+}
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*header start*/
+.h-c{
+    width: 95%;
+}
+/*header end*/
+/*banner start*/
+.b-c h1 {
+    font-size: 35px;
+}
+.b-c p {
+    margin: 30px 0px;
+    font-size: 20px;
+}
+/*banner end*/
+/*sercice start*/
+.s-c1, .s-c2, .s-c3 {
+    padding: 70px 0;
+}
+.s-c {
+    width: 29%;
+    padding-bottom: 20px;
+}
+.s-c1 h1, .s-c2 h1, .s-c3 h1 {
+    font-size: 35px;
+}
+.s-c1 p, .s-c2 p, .s-c3 p {
+    margin: 20px 25px;
+}
+/*sercice end*/
+/*service 4 start*/
+.s4-c {
+    font-size: 40px;
+}
+.s4-c2 {
+    margin: 50px 40px 0;
+}
+/*service 4 end*/
+/*slider start*/
+.c-caption {
+    padding-bottom: 0px;
+}
+.c-caption h3 {
+    font-size: 20px;
+}
+.c-caption p {
+    margin-top: 16px;
+    font-size: 14px;
+}
+.c-caption span {
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+/*slider end*/
+/*<brands start*/
+.banner {
+     margin: 50px 0; 
+}
+/*<brands end*/
+
+/*service 2 again s*/
+.s2-c1 {
+    padding: 50px 0;
+}
+.s22-c1 {
+    padding-bottom: 50px;
+}
+.s-22-3 h3{
+	font-size: 20px;
+}
+.s-22-3 p {
+    padding: 0;
+}
+.s-22-4{
+
+}
+/*service 2 again e*/
+/*footer start*/
+.f-1 {
+    width: 85%;
+}
+.f-c address{
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.f-c ul {
+    font-size: 14px;
+}
+/*footer end*/
+
+}
+
+
+
+/*Exttra large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*header start*/ 
+.h-c{
+    width: 95%;
+}
+/*banner*/
+.b-c h1 {
+    font-size: 40px;
+
+}
+/*banner*/
+
+}
+
+
+
+/*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) {
+/*header start*/
+.menu ul li a {
+    font-size: 18px !important;
+
+}
+/*service start*/
+.s-c1, .s-c2, .s-c3 {
+    padding: 85px 10px;
+}
+.s-c1 p, .s-c2 p, .s-c3 p {
+    margin: 20px;
+    margin-bottom: 46px;
+    /* font-family: 'Montserrat', sans-serif; */
+    font-size: 17px;
+    color: #ffffff;
+}
+/*service end*/
+}
